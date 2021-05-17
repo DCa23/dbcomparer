@@ -1,0 +1,7 @@
+.idea/
+.vscode/
+report.html
+.env
+
+src/__pycache__/
+src/__pycache__/*
